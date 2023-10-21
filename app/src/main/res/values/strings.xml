@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MemoNeet</string>
+    <string name="title_activity_capsule">CapsuleActivity</string>
+    <string name="title_activity_splash">SplashActivity</string>
+</resources>
